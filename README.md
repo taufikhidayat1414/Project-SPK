@@ -1,4 +1,4 @@
 # Project
-# Repository-Baru
+# Repository
 # Project-SPK-WP
 # ProjectSPK
